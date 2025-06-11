@@ -9,7 +9,7 @@ public class UMG_Slate_TemplateEditorTarget : TargetRules
 	{
 		Type = TargetType.Editor;
 		DefaultBuildSettings = BuildSettingsVersion.V5;
-		IncludeOrderVersion = EngineIncludeOrderVersion.Unreal5_5;
+		IncludeOrderVersion = EngineIncludeOrderVersion.Unreal5_4;
 		CppStandard = CppStandardVersion.Cpp20;
 		ExtraModuleNames.Add("UMG_Slate_Template");
 	}
